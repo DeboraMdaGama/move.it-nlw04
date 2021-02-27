@@ -69,12 +69,12 @@ Usando os comandos git
 - Envie as mudanças que você fez: `git commit -m 'feat: My new feature'`;
 - Push a branch que você criou: `git push origin my-feature`.
 
-<h2 id="author"> Author </h2>
+<h2 id="author"> Author </h2> 
 
-<img style="border-radius: 50%;width:100px; height:100px;" src="https://github.com/deboraMdaGama.png" alt=""/>
-Developed by Débora Miranda.
+<img src="https://github.com/deboraMdaGama.png" width="85px" height="85px" alt=""></img> 
 
-[Linkedin](https://www.linkedin.com/in/debora-gama/)
+Developed by: Débora Miranda. - [Linkedin](https://www.linkedin.com/in/debora-gama/)
+
 
 <h2 id="license"> License </h2>
 

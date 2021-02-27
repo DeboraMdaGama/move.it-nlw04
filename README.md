@@ -1,5 +1,3 @@
-# move.it-nlw04
-
 <h1 align="center">
     Move.it 1.0 | NLW#4
 </h1>
@@ -46,7 +44,7 @@ Required! Install git, node and npm or yarn.
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/anabrtorres/timeup-nlw4.git
+$ git clone https://github.com/DeboraMdaGama/move.it-nlw04.git
 
 # Go to server folder
 $ cd timeup
@@ -76,7 +74,7 @@ Usando os comandos git
 
 Developed by Déboora Miranda.
 
-[![Linkedin Badge]](https://www.linkedin.com/in/debora-gama/)
+[Linkedin](https://www.linkedin.com/in/debora-gama/)
 
 <h2 id="license"> License </h2>
 

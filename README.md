@@ -25,7 +25,7 @@
 
 <h2 id="objective" > Objective </h2>
 
-Control your time with efficiency and You'll be more productive and health. The application helps You organize your rotine and creates some exercises for you take care of your health.
+Control your time with efficiency and You'll be more productive and healthier. The application helps You organize your rotine and creates some exercises for you take care of your health.
 
 <h2 id="technologies"> Technologies </h2>
 
@@ -47,7 +47,7 @@ Required! Install git, node and npm or yarn.
 $ git clone https://github.com/DeboraMdaGama/move.it-nlw04.git
 
 # Go to server folder
-$ cd timeup
+$ cd move.it
 
 # Install Dependencies
 $ yarn
@@ -69,10 +69,10 @@ Usando os comandos git
 - Envie as mudanças que você fez: `git commit -m 'feat: My new feature'`;
 - Push a branch que você criou: `git push origin my-feature`.
 
-
 <h2 id="author"> Author </h2>
 
-Developed by Déboora Miranda.
+<img style="border-radius: 50%;" src="https://github.com/deboraMdaGama.png" width="100px; height="100px;" alt=""/>
+Developed by Débora Miranda.
 
 [Linkedin](https://www.linkedin.com/in/debora-gama/)
 

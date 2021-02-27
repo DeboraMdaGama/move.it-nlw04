@@ -1,7 +1,7 @@
 <h1 align="center">
     Move.it 1.0 | NLW#4
 </h1>
-<p align="center"> Application developed in the Rocketseat's Next Level Week 04 | 💻🚀 </p>
+<p align="center"> Application developed for the Rocketseat's Next Level Week 04 | 💻🚀 </p>
 
 <p align="center">
  <a href="#objective">Objective</a> •
@@ -12,24 +12,21 @@
  <a href="#license">License</a>
 </p>
 
+
 <h1 align="center">
-<div style="display: flex; flex-direction: row;">
-  <img width="400" style="border-radius: 10px" height="auto" alt="" title="" src="" />
-  <img width="400" style="border-radius: 10px" height="auto" alt="" title="" src="" />
-  <div>
-  <div style="display: flex; flex-direction: row;">
-   <img width="400" style="border-radius: 10px" height="auto" alt="" title="" src="" />
-   <img width="400" style="border-radius: 10px" height="auto" alt="" title="" src="" />
+  <img width="400" height="auto" alt="" src="/public/assets/home.png" />
+  <img width="400" height="auto" alt="" src="/public/assets/challenges.png" />
 </h1>
+
 
 
 <h2 id="objective" > Objective </h2>
 
-Control your time with efficiency and You'll be more productive and healthier. The application helps You organize your rotine and creates some exercises for you take care of your health.
+Control your time with efficiency and You'll be more productive and healthier. The application helps You organize your rotine and creates some exercises for you. Take care of your health!
 
 <h2 id="technologies"> Technologies </h2>
 
-The following tools were used in the construction of the project:
+The following tools were used in the project:
 
 - [ReactJS](https://reactjs.org)
 - [NextJS](https://nextjs.org)

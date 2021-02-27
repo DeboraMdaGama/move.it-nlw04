@@ -70,7 +70,8 @@ Usando os comandos git
 
 <img src="https://github.com/deboraMdaGama.png" width="85px" height="85px" alt=""></img> 
 
-Developed by: Débora Miranda. - [Linkedin](https://www.linkedin.com/in/debora-gama/)
+<a href="https://www.linkedin.com/in/debora-gama/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614468549~hmac=f403ff89bc68d2a9b2ae3c11a7b7bd5c" alt="Linkedin" width="25" /> Débora Gama.</a>
+  
 
 
 <h2 id="license"> License </h2>

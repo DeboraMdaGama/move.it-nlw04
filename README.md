@@ -71,7 +71,7 @@ Usando os comandos git
 
 <h2 id="author"> Author </h2>
 
-<img style="border-radius: 50%;" src="https://github.com/deboraMdaGama.png" width="100px; height="100px;" alt=""/>
+<img style="border-radius: 50%;width:100px; height:100px;" src="https://github.com/deboraMdaGama.png" alt=""/>
 Developed by Débora Miranda.
 
 [Linkedin](https://www.linkedin.com/in/debora-gama/)
